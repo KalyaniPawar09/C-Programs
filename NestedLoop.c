@@ -12,7 +12,7 @@ void main()
       }
   printf("\n");
 
-
-  getch();
   }
+  getch();
+  
 }
